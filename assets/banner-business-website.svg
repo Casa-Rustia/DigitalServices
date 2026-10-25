@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+<title id="title">Business Website banner</title><desc id="desc">A warm futuristic multi-page website system with service pages and customer paths.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff8ef"/><stop offset=".52" stop-color="#ead1ad"/><stop offset="1" stop-color="#8f5139"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff4c6"/><stop offset=".45" stop-color="#e4aa3a"/><stop offset="1" stop-color="#9f5b40"/></linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#2a1d17" flood-opacity=".24"/></filter>
+</defs>
+<rect width="900" height="520" rx="46" fill="url(#bg)"/>
+<g opacity=".2" stroke="#25170f" stroke-width="1"><path d="M92 0v520M172 0v520M252 0v520M332 0v520M412 0v520M492 0v520M572 0v520M652 0v520M732 0v520M812 0v520"/><path d="M0 86h900M0 166h900M0 246h900M0 326h900M0 406h900"/></g>
+<g filter="url(#shadow)">
+<rect x="92" y="92" width="374" height="276" rx="34" fill="#201712"/>
+<rect x="128" y="134" width="188" height="24" rx="12" fill="url(#gold)"/>
+<rect x="128" y="188" width="276" height="16" rx="8" fill="#fff8ef" opacity=".72"/>
+<rect x="128" y="224" width="230" height="16" rx="8" fill="#fff8ef" opacity=".44"/>
+<rect x="128" y="276" width="94" height="42" rx="21" fill="#e4aa3a"/>
+</g>
+<g filter="url(#shadow)">
+<rect x="426" y="166" width="182" height="232" rx="28" fill="#fff8ef" stroke="#e4aa3a"/>
+<rect x="458" y="204" width="86" height="14" rx="7" fill="#8f5139" opacity=".85"/>
+<rect x="458" y="244" width="116" height="12" rx="6" fill="#2a1d17" opacity=".14"/>
+<rect x="458" y="272" width="98" height="12" rx="6" fill="#2a1d17" opacity=".14"/>
+<rect x="458" y="324" width="68" height="34" rx="17" fill="#201712"/>
+</g>
+<g filter="url(#shadow)">
+<rect x="584" y="106" width="224" height="178" rx="30" fill="#fff8ef" stroke="#d39a7d"/>
+<path d="M626 220c38-62 76-30 107-74 18 35 29 49 54 74" fill="none" stroke="#e4aa3a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="634" cy="154" r="18" fill="#e4aa3a"/>
+</g>
+<path d="M410 282c62 12 86-28 142-12m58-42c56-18 84 12 118 38" stroke="#fff8ef" stroke-width="5" stroke-linecap="round" fill="none" opacity=".72"/>
+</svg>

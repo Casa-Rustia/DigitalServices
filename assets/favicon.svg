@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Casa Rustia CR monogram</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff8ef"/>
+      <stop offset="1" stop-color="#f5e6d7"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f4c76a"/>
+      <stop offset="0.55" stop-color="#d9a449"/>
+      <stop offset="1" stop-color="#8f5d2f"/>
+    </linearGradient>
+    <linearGradient id="brown" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#5d3825"/>
+      <stop offset="1" stop-color="#22140f"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="36" fill="url(#bg)"/>
+  <text x="66" y="78" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700" fill="url(#gold)" letter-spacing="-12">C</text>
+  <text x="95" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="700" fill="url(#brown)" letter-spacing="-10">R</text>
+  <path d="M62 63 L67 76 L80 81 L67 86 L62 99 L57 86 L44 81 L57 76 Z" fill="#d9a449"/>
+</svg>
